@@ -1,0 +1,126 @@
+body
+{
+    margin:0;
+    padding: 0;
+}
+ul{
+    list-style: none;
+}
+.blue-container
+{
+    background-color: rgb(51, 51, 207);
+    display: flex;
+    justify-content: space-between;
+    height: 7%;
+}
+.boy1
+{
+    width: 45%;
+    height: 70%;
+    border-radius: 50%;
+}
+.chat
+{
+    width: 45%;
+    height: 60%;
+}
+
+#search
+{
+    margin: 0 30px 0 0;
+    width: 180%;
+    height: 50%;
+    position: center;
+}
+.grey-container1
+{
+    background-color: rgb(228, 212, 212);
+}
+.da
+{
+    height:35%;
+    width: 25%;
+}
+p1 , blockquote
+{
+    font-size: 2.2em;
+    line-height: 1.6em;
+    font-weight: bold;
+}
+.white-container1
+{
+    display: flex;
+    justify-content: space-between; 
+    border-bottom: solid grey;
+}
+.white-container2
+{
+    display: flex;
+    justify-content: left;
+    border-bottom: solid grey;
+}
+p2, blockquote
+{
+    font-size: 2.0em;
+    line-height: 1.2em;
+}
+.linkedin
+{
+    height: 80%;
+    width: 60%;
+}
+.girl
+{
+    height: 40%;
+    width: 100%;
+    
+}
+.image
+{
+    border-bottom: solid grey;
+}
+.grey-container2
+{
+    background-color: rgb(228, 212, 212);
+}
+.white-container4
+{
+    display: flex;
+    justify-content: space-around;
+
+}
+.like
+{
+    height: 4em;
+    width: 4em;
+}
+.comment
+{
+    height: 4em;
+    width: 4em;
+}
+.share
+{
+    height: 4em;
+    width: 4em;
+}
+.send
+{
+    height: 4em;
+    width: 4em;
+}
+.white-container5
+{
+    border-bottom: solid grey;
+}
+.white-container6
+{
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: 22%;
+}
+.boy2
+{
+    height: 80%;
+    border-radius: 50%;
+    
