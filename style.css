@@ -112,7 +112,15 @@ p2, blockquote
 .white-container5
 {
     border-bottom: solid grey;
+    display: flex;
+    justify-content: space-between;
 }
+.da
+{
+    height:35%;
+    width: 25%;
+}
+
 .white-container6
 {
     display: flex;
